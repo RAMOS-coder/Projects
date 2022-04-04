@@ -1,0 +1,38 @@
+.container {
+    /* DISPLAY: Define o elemento como um flex container, tornando os seus filhos flex-itens. */
+    display: flex;
+
+    /* Define a direção dos flex itens. */
+    flex-direction: ;
+
+    /* Alinha os itens flex no container de acordo com a direção. */
+    justify-content:;
+
+    /* O align-items alinha os flex itens de acordo com o eixo do container. */
+    align-items:; 
+
+    /* Define se os itens devem quebrar ou não a linha. */
+    flex-wrap: ;
+
+    /*Alinha as linhas do container em relação ao eixo vertical.*/
+    align-content: ;
+}
+
+.box {
+    height: 150px;
+    width: 150px;
+    margin: 0px;
+    border: 1px solid;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.yellow {
+    background-color: yellow;
+}

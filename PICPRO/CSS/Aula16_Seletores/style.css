@@ -1,0 +1,28 @@
+/*Seletor por TAG*/
+h1 {
+    font-size: 60px;
+    color:blueviolet;
+}
+
+p {
+    font-size: 36px;
+}
+
+/*Seletor por Class*/
+.box-red {
+    background-color: red;
+}
+
+.box-blue {
+    background-color: blue;
+}
+
+.box {
+    height: 150px;
+    width: 150px;
+}
+
+/*Seletor por ID*/
+#sessao-unica {
+    font-size: 56px;
+}

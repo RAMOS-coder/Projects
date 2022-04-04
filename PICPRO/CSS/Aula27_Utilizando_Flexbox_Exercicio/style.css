@@ -1,0 +1,51 @@
+html {
+    background-color:gainsboro;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    background-image: linear-gradient(
+        to right, #2193b0, #6dd5ed
+    );
+
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    
+    width: 100%;
+    
+}
+
+h1 {
+    color: #fff;
+}
+
+ul{
+    list-style: none;
+    margin: 0px;
+}
+
+nav ul {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+.menuHighlight {
+    text-decoration: underline;
+}

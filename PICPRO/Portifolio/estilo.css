@@ -1,0 +1,16 @@
+html {
+    font-size: 14px;
+    font-family: 'Quicksand', sans-serif;
+    text-align: justify;
+}
+
+.content-inline {
+    border-style: dotted;
+    display:inline;
+    width: 25%;
+    height: 150px;
+}
+
+#FotoPerfil {
+    border-radius: 50%;
+}
